@@ -1,4 +1,4 @@
-# AutoCar
+# Arduino AutoCar
 Arduino self controlled car
 
 Requirements:<br>
